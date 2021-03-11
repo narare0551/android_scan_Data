@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/scan"
+        android:title="SCAN"
+        android:icon="@drawable/scan_icon"/>
+    <item
+        android:id="@+id/history"
+        android:title="HISTORY"
+        android:icon="@drawable/history"/>
+    <item
+        android:id="@+id/setting"
+        android:title="SETTING"
+        android:icon="@drawable/setting_icon"/>
+</menu>
